@@ -69,7 +69,7 @@ This project focuses on:
 - **Stage 3 — Databricks:** Adapt the working pipeline to Apache Spark and Delta tables.
 - **Stage 4 — Automation:** Schedule batch processing and monitor execution.
 
-dbt will be explored after the basic ingestion and SQL transformation workflow is established.
+❗️❗️dbt will be explored after the basic ingestion and SQL transformation workflow is established. -- that's when? At Stage 1?
 
 ---
 
